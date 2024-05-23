@@ -27,10 +27,5 @@ Sur la base des échanges avec Nina, voici les principales tâches que je vais r
 - Ajout des métadonnées pour les réseaux sociaux.
 - Correction des bugs dans le code, y compris la navigation dans la galerie et l'affichage des filtres.
 
-### > Livrables
 
-    - [Site de Nina Carducci](https://nina-carducci-one.vercel.app/)
-        -[Rapport d'intervention](https://github.com/ParzivalFR/Nina-Carducci/blob/main/Rapport-Intervention-Nina-Carducci.pdf)
-            - [Audit Lighthouse Desktop](https://github.com/ParzivalFR/Nina-Carducci/blob/main/audit_nina_carducci_ordinateur.pdf)
-                -[Audit Lighthouse Mobile](https://github.com/ParzivalFR/Nina-Carducci/blob/main/audit_nina_carducci_mobile.pdf)
 # Nina - Carducci
